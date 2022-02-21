@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mask_resize</folder>
+	<filename>38.jpeg</filename>
+	<path>/Users/meng/Desktop/ESW/ESW2022/codes/data/mask_resize/38.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>330</ymin>
+			<xmax>494</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>
